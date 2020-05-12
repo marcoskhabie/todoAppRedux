@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c17ef504-3298-4894-9763-74431d08882a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/containers/AddTodo.container.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/containers/Todo.container.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/containers/TodoList.container.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/containers/VisibilityFilters.container.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TodoApp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/TodoApp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/AddTodo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AddTodo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Todo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Todo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TodoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TodoList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/VisibilityFilters.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/VisibilityFilters.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +45,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -48,18 +61,41 @@
       <option name="presentableId" value="Default" />
       <updated>1589140975914</updated>
       <workItem from="1589140978004" duration="8898000" />
-      <workItem from="1589246060641" duration="250000" />
+      <workItem from="1589246060641" duration="849000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1589246499440</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589246499440</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="432" y="130" key="CommitChangelistDialog2" timestamp="1589246457723">
+    <state x="432" y="130" key="CommitChangelistDialog2" timestamp="1589246494044">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="432" y="130" key="CommitChangelistDialog2/-108.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1589246457723" />
+    <state x="432" y="130" key="CommitChangelistDialog2/-108.-1080.1920.1080/0.0.1680.1050@0.0.1680.1050" timestamp="1589246494044" />
     <state x="349" y="164" key="SettingsEditor" timestamp="1589240745744">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
